@@ -1,0 +1,35 @@
+body{
+    display: block;
+    margin: 5px 400px 5px 400px;
+}
+h1#titulo{
+    color: red;
+    font-size: 20px;
+}
+/* /* img{
+   display: block;
+    width: 20px;
+    
+} */
+img#principal{
+    display: block;
+    margin-left: -40px;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    
+}  
+
+figure li{
+    display: inline-block;
+    
+}
+img.logoTipo{
+    width: 50px;
+    margin-right:8px;
+}
+footer{
+    display:block ;
+   
+}
